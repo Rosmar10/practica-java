@@ -22,7 +22,10 @@ container.style.backgroundColor = "#7ba238"
 container.style.width = "30%"
 container.style.borderRadius = "3%"
 container.style.margin = "10%"
-container.style.padding = "4%"
+
 
 colorselector = document.getElementById("colorselector")
-colorselector = style.height = "25px"
+colorselector = style.height = "5%"
+colorselector = style.wigth = "10%"
+colorselector = style.backgroundColor = "#000"
+colorselector = style.borderRadius = "50%"
