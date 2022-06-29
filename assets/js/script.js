@@ -1,4 +1,4 @@
-
+// funciones
 const precio = 400000
 
 function calculartotal() {
