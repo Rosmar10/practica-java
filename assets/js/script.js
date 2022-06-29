@@ -16,6 +16,7 @@ function calculartotal() {
     colorfinal.style.backgroundColor = color.value
 }
 
+// style
 container = document.getElementById("container2")
 container.style.backgroundColor = "#7ba238"
 container.style.width = "30%"
