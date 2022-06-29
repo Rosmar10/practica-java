@@ -23,3 +23,6 @@ container.style.width = "30%"
 container.style.borderRadius = "3%"
 container.style.margin = "10%"
 container.style.padding = "4%"
+
+colorselector = document.getElementById("colorselector")
+colorselector = style.height = "25px"
