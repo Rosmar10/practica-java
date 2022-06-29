@@ -6,6 +6,9 @@
     box-sizing: border-box;
 }
 
+#imagen{
+    padding: 10px;
+}
 .container {  
     align-items: center;
 }
@@ -13,6 +16,7 @@
     border-radius: 3%;
     color: rgb(102, 101, 101);
     margin: 5%;
+    align-items: center;
 }
 
 #valor{
@@ -20,11 +24,7 @@
 }
 
 .btn{
-    margin-left: 40px;
-    color: rgb(23, 23, 23);
-    width: 60%;
-    padding: 1px;
-    display: block;
+    width: 100%;
     color: #fff;
     margin-top: 10px;
 }
