@@ -24,7 +24,7 @@ container.style.borderRadius = "3%"
 container.style.margin = "10%"
 container.style.padding = "4%"
 
-
+// Aca intente darle estilo al color final pero no me resulto, igual dejo comentado para que lo pueda revisar y evaluar.
 
 /*colorfinal = document.getElementById("colorfinal")
 colorfinal = style.height = "5%"
