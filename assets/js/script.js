@@ -19,10 +19,11 @@ function calculartotal() {
 // style
 container = document.getElementById("container2")
 container.style.backgroundColor = "#7ba238"
-container.style.width = "30%"
+container.style.width = "26%"
 container.style.borderRadius = "3%"
 container.style.margin = "10%"
 container.style.padding = "4%"
+
 
 
 colorfinal = document.getElementById("colorfinal")
