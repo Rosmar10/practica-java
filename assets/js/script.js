@@ -22,10 +22,10 @@ container.style.backgroundColor = "#7ba238"
 container.style.width = "30%"
 container.style.borderRadius = "3%"
 container.style.margin = "10%"
-container.style.padding = "4%"
+container.style.padding = "3%"
+
 
 // Aca intente darle estilo al color final pero no me resulto, igual dejo comentado para que lo pueda revisar y evaluar.
-
 /*colorfinal = document.getElementById("colorfinal")
 colorfinal = style.height = "5%"
 colorfinal = style.wigth = "10%"
